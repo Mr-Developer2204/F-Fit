@@ -7,7 +7,7 @@ function Dindex() {
             <div className="row">
             <div className="col-md-5">
                
-                    <Sample/>
+                    {/* <Sample/> */}
                     
             </div>
 
