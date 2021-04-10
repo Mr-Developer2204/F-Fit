@@ -15,7 +15,7 @@ function SBanner() {
 
               <h1 className="display-3 text-center text-md-left">
                 Welcome to <span className="text-primary">F-Fit</span>, <br />
-                  Invest anywhere.
+                  Break, Invest, Grow.
                 </h1>
 
               <p className="lead text-center text-md-left text-muted mb-6 mb-lg-8">

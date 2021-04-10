@@ -7,6 +7,7 @@ import FormControl from "react-bootstrap/FormControl";
 function BDropDown() {
   return (
     <div className="dd">
+    <Form>
       <Form.Label>Enter Amount</Form.Label>
       <InputGroup >
       
@@ -20,7 +21,7 @@ function BDropDown() {
         </InputGroup.Append>
       </InputGroup>
       
-  <Form>
+  
     
     <Form.Group controlId="formRatio" className="ddb"
         id="dropdown-item-button lg "
